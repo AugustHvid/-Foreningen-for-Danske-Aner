@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>De Danske Aners Fællesskab</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Velkommen til De Danske Aners Fællesskab</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Om Foreningen</a></li>
+                <li><a href="#news">Nyheder</a></li>
+                <li><a href="#events">Arrangementer</a></li>
+                <li><a href="#membership">Medlemskab</a></li>
+                <li><a href="#contact">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>Om Foreningen</h2>
+        <p>Foreningen De Danske Aners Fællesskab samler mennesker med interesse for danske aner og slægtsforskning. Vores mål er at fremme forståelsen af danske adelige rødder og deres historie.</p>
+    </section>
+
+    <section id="news">
+        <h2>Nyheder</h2>
+        <p>Hold dig opdateret med de seneste nyheder og opdateringer fra foreningen. Her kan du finde information om kommende arrangementer, udgivelser af årsbøger og meget mere.</p>
+    </section>
+
+    <section id="events">
+        <h2>Arrangementer</h2>
+        <p>Vi planlægger flere årlige arrangementer for medlemmerne, som inkluderer seminarer, foredrag og sociale møder.</p>
+    </section>
+
+    <section id="membership">
+        <h2>Medlemskab</h2>
+        <p>Ønsker du at blive medlem af foreningen? Tilmeld dig her for at få adgang til vores nyhedsbreve, årsbøger og invitationer til kommende arrangementer.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Kontakt</h2>
+        <p>Har du spørgsmål? Du kan kontakte os på: <a href="mailto:kontakt@danskeforening.dk">kontakt@danskeforening.dk</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 De Danske Aners Fællesskab. Alle rettigheder forbeholdes.</p>
+    </footer>
+</body>
+</html>
